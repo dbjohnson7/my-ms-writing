@@ -6,12 +6,43 @@ output: pdf_document
 ---
 
 
-## Introduction
+# Introduction
 
-# Soil Bacteria
+## Soil Bacteria
+### The role of bacteria in soil nutrient cycling  
+### Soil microbial diversity  
+### Spatial heterogeneity  
+### Challenges of studying soil microbial communities  
+### Environmental pressures on microbial community composition  
 
-# Boreal forests
+## Boreal forests
+### Description
+Extent  
+Vegetation  
+Soil  
+Annual precipitation and tempmerature  
 
-# Wildfires
+### Nutrient storage - carbon - in boreal forests, vegetation, and trees
+### Bacteria and nutrient cycling  
+### History (co-evolution) of fires and forests
+### Fire return intervals
+### Changing wildfire regimes
 
-# What we don't know
+## Wildfires
+### Properties
+### Wildfires and soil
+### Wildfires and vegetation
+### Role of wildfire in boreal forest ecosystems
+### Wildfire and microbes
+
+## What we don't know
+Which bacteria survive fires?  
+How do they survive?
+Which bacteria are killed by fires?
+Why are they killed?
+Which bacteria thrive in the post-fire environment?
+Do fires exert a strong pressure on soil microbial communities?
+Are boreal forest soil bacteria especially adapted to fire environments?
+Will changing fire regimes impact microbial community composition because certain microbes can't withstand increasing environmental pressure?  
+Will more fires change microbial community composition?  
+(How) Does a wildfire change microbial community function in the short-term and the longer term?
