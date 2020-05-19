@@ -1,0 +1,17 @@
+---
+title: "ms-intro"
+author: "Dana Johnson"
+date: "5/19/2020"
+output: pdf_document
+---
+
+
+## Introduction
+
+# Soil Bacteria
+
+# Boreal forests
+
+# Wildfires
+
+# What we don't know
