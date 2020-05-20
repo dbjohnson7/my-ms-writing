@@ -8,14 +8,14 @@ output: pdf_document
 
 # Introduction
 
-## Soil Bacteria
+## I. Soil Bacteria
 ### The role of bacteria in soil nutrient cycling  
 ### Soil microbial diversity  
 ### Spatial heterogeneity  
 ### Challenges of studying soil microbial communities  
 ### Environmental pressures on microbial community composition  
 
-## Boreal forests
+## II. Boreal forests
 ### Description
 Extent  
 Vegetation  
@@ -28,14 +28,14 @@ Annual precipitation and tempmerature
 ### Fire return intervals
 ### Changing wildfire regimes
 
-## Wildfires
+## III. Wildfires
 ### Properties
 ### Wildfires and soil
 ### Wildfires and vegetation
 ### Role of wildfire in boreal forest ecosystems
 ### Wildfire and microbes
 
-## What we don't know
+## IV. What we don't know
 Which bacteria survive fires?  
 How do they survive?
 Which bacteria are killed by fires?
